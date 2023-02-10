@@ -14,10 +14,10 @@
                 <MenuItem Header="Fabricante" Click="Fabricante_Click" />
             </MenuItem>
             <MenuItem Header="Operações">
-                <MenuItem Header="Cadastro Modelos" Click="CadastroVeiculo_Click" />
-                <MenuItem Header="Cadastro Veiculos" Click="CadastrodeModelo_Click" />
-                <MenuItem Header="Veiculos e  seus Fabricantes" Click="Registrados_Click" />
-                <MenuItem Header="Veiculos e seus Modelos" Click="Registrados1_Click" />
+                <MenuItem Header="Cadastro Modelo no Veículo" Click="CadastroVeiculo_Click" />
+                <MenuItem Header="Cadastro Veiculo Fabricante" Click="CadastrodeModelo_Click" />
+                <MenuItem Header=" Lista de Veiculos e  seus Fabricantes" Click="Registrados_Click" />
+                <MenuItem Header=" Lista de Veiculos e seus Modelos" Click="Registrados1_Click" />
             </MenuItem>
         </Menu>
     </Grid>
